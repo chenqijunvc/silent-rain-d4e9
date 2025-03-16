@@ -9,7 +9,7 @@ export default function Home() {
         <div className="relative">
           <Image
             className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70]"
-            src="/pf-logo.svg"
+            src="/PortfolioFuture.svg"
             alt="PortfolioFuture Logo"
             width={320}  // Increased width for better visibility
             height={64}
